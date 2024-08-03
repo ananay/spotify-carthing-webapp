@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"easing-function":"cubic-bezier(0.16, 1, 0.3, 1)","generic-cubic":"cubic-bezier(0.3, 0, 0.7, 1)","transition-duration-ms":"500","recede-default-cubic":"cubic-bezier(1, 0, 0.7, 1)","green-light":"#1ed760","promo":"Promo_promo__JVB+y","textAndConfirm":"Promo_textAndConfirm__n4D7w","text":"Promo_text__zjWwJ","subText":"Promo_subText__eYOjv","confirmButton":"Promo_confirmButton__1pm5N","imageAndOption":"Promo_imageAndOption__A2eRn","image":"Promo_image__wd39+","optionButtonWrapper":"Promo_optionButtonWrapper__cXY1O"};

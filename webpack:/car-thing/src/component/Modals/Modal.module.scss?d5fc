@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"easing-function":"cubic-bezier(0.16, 1, 0.3, 1)","generic-cubic":"cubic-bezier(0.3, 0, 0.7, 1)","transition-duration-ms":"500","recede-default-cubic":"cubic-bezier(1, 0, 0.7, 1)","green-light":"#1ed760","title":"Modal_title__rBbm7","subtitle":"Modal_subtitle__7+slG","description":"Modal_description__xTS3o","pairingCode":"Modal_pairingCode__A4YfO","iconCheck":"Modal_iconCheck__VAAsM","dialog":"Modal_dialog__8+bm9","logoSpotify":"Modal_logoSpotify__0lKWP"};
